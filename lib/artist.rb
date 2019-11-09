@@ -13,9 +13,7 @@
 # end
 
 class Artist
-  
-  def initialize
-    
-  end 
+  attr_accessor :name
+  s
 
 end
