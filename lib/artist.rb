@@ -1,13 +1,13 @@
-class Artist 
-  # attr_accessor :name
+# class Artist 
+#   # attr_accessor :name
   
-  def name=(artist_name)
-  @name = artist_name   
-  end 
+#   def name=(artist_name)
+#   @name = artist_name   
+#   end 
   
-  def name 
-  @name 
-  end 
+#   def name 
+#   @name 
+#   end 
 
 
-end
+# end
