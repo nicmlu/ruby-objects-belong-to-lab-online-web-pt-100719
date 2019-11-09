@@ -14,6 +14,6 @@
 
 class Artist
   attr_accessor :name
-  s
+  
 
 end
