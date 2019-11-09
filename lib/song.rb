@@ -1,12 +1,12 @@
-class Song 
-  attr_accessor :artist 
+# class Song 
+#   attr_accessor :artist 
 
-  def title=(song_title)
-    @title = song_title
-  end 
+#   def title=(song_title)
+#     @title = song_title
+#   end 
   
-  def title
-    @title
-  end
+#   def title
+#     @title
+#   end
   
-end 
+# end 
